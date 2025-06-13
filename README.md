@@ -6,7 +6,7 @@
   <a href="https://github.com/akss23">
     <img src="https://img.shields.io/github/followers/akss23?label=Follow&style=social" alt="GitHub followers">
   </a>
-  <img src="https://visitcount.itsvg.in/api?id=akss23&icon=0&color=9" alt="Profile Views">
+ 
   <a href="https://www.linkedin.com/in/akshat-parashar-9982b4256/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
