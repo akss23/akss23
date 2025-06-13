@@ -1,41 +1,134 @@
-### 👋 Hi, I’m Akshat (@akss23)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=650&lines=Hi%2C+I'm+Akshat+Parashar!+%F0%9F%9A%80;Developer+%7C;Content+Creator+%7C;Storyteller+%7C;Turning+Ideas+into+Reality" alt="Typing SVG" />
+</div>
 
-- 👀 I’m interested in Data Structures & Algorithms, Development, and exploring the latest in tech innovations 🚀  
-- 🌱 Currently learning: DSA, full-stack web dev, and the art of filmmaking  
-- 💡 I’m curious about how technology shapes our world and love building new things  
-- 🎬 Passionate about video creation and filmmaking—check out my 90-second short films on Instagram, and content on YouTube!  
-- 🌈 I create content on a range of emotions and unique storytelling formats  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I thrive on creativity, both in code and behind the camera!
+<div align="center">
+  <a href="https://github.com/akss23">
+    <img src="https://img.shields.io/github/followers/akss23?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <img src="https://visitcount.itsvg.in/api?id=akss23&icon=0&color=9" alt="Profile Views">
+  <a href="https://www.linkedin.com/in/akshat-parashar-9982b4256/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@aksacts/videos">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.instagram.com/haii_akshat/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-parashar-9982b4256/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@aksacts/videos)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/haii_akshat/)
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=adobe-premiere-pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=adobe-after-effects&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akss23&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akss23&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akss23&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <em>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZuaXhpY2p1c3JwM3J0OHd1aXp6bXZqZnM1eWc1Y2pveGkwMzl2dCZuZWFyPTQwMA8/gM5qFksULw54NMWyry/giphy.gif" width="38px" />
+    Passionate about Coding, Storytelling, and Creating Impactful Content.
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="38px" />
+  </em>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akss23&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+- 🚀 **Curious Innovator:** Always exploring new ideas and tech.
+- 👨‍💻 **Developer | Content Creator | Storyteller**
+- 🌱 **Currently Learning:** DSA, Full-Stack Development, and Filmmaking.
+- 🛠️ **Currently Building:** Creative web projects and engaging video content.
+- 🤝 **Open to Collaboration:** Open-source, creative media, and hackathons.
+- 💬 **Ask Me About:** DSA, Web Dev, Content Creation, Filmmaking.
+- 🌏 **Location:** India
+- 🏅 **Achievements:** Unique storytelling formats, 90-sec short films, content across YouTube & Instagram.
+- ⚡ **Fun Fact:** I thrive on creativity—both in code and behind the camera!
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" />
+  <img src="https://img.shields.io/badge/adobe%20premiere%20pro-9999FF.svg?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20after%20effects-9999FF.svg?style=flat-square&logo=adobe-after-effects&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
+</div>
+
+---
+
+## 💼 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🎬 90-sec Shorts](https://www.instagram.com/haii_akshat/) | Short films & creative storytelling on Instagram | Filmmaking, Editing, Storytelling |
+| [🌐 Web Dev Projects](https://github.com/akss23?tab=repositories) | Web Applications & side projects | JavaScript, React, Node.js, MongoDB |
+| [📹 YouTube Content](https://www.youtube.com/@aksacts/videos) | Tech, storytelling & creative content | Video Editing, Scripting, Filmmaking |
+| [More...](https://github.com/akss23?tab=repositories) | See all repos | Various |
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akss23&theme=highcontrast&hide_border=false&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=akss23&theme=highcontrast&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akss23&theme=highcontrast&hide_border=false&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/akshat-parashar-9982b4256/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@aksacts/videos">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/haii_akshat/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 🎯 Current Focus & Mission
+
+```typescript
+const akshatParashar = {
+    mission: "Create, inspire, and innovate through technology & storytelling",
+    focus: ["DSA", "Full-Stack Development", "Content Creation", "Filmmaking"],
+    currentlyBuilding: "Creative web projects & short films",
+    learning: ["Advanced DSA", "Modern Web Tech", "Creative Video Production"],
+    askMeAbout: ["Web Development", "Content Creation", "Storytelling", "Filmmaking"]
+};
+```
+
+---
+
+<details>
+  <summary><b>✨ More About Me</b></summary>
+  <ul>
+    <li>💡 Always exploring new creative and tech ideas</li>
+    <li>🛠️ Building side projects & learning every day</li>
+    <li>🎬 Passionate about unique video formats & storytelling</li>
+    <li>🚴‍♂️ Love cycling, music, and traveling</li>
+  </ul>
+</details>
+
+---
+
+<!--
+**akss23/akss23** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
