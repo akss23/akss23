@@ -117,7 +117,7 @@
 const akshatParashar = {
     mission: "Create, inspire, and innovate through technology & storytelling",
     focus: ["DSA", "Full-Stack Development", "Content Creation", "Filmmaking"],
-    currentlyBuilding: "Creative web projects & short films",
+    currentlyBuilding: "College Paao & short films",
     learning: ["Advanced DSA", "Modern Web Tech", "Creative Video Production"],
     askMeAbout: ["Web Development", "Content Creation", "Storytelling", "Filmmaking"]
 };
